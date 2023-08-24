@@ -3,7 +3,7 @@
 <!--
 **StudentLinn/StudentLinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### About me
+### About me 🌛
 - 我刚毕业
 - 我正在努力学习如何写出来更好的代码去更快更好的完成工作 
 - 如果在我的代码中看到不对/不合适的地方可以私信指正
