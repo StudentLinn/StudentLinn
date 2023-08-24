@@ -14,7 +14,7 @@
 - Let me know if you see something wrong/inappropriate in my code.
 - and now i main write ios, use language for swift.
 
-### Results <img src="https://github-readme-stats.vercel.app/api?username=dereknguyen269&show_icons=true" alt="dereknguyen269" align="right" />
+### Results
 - 目前写了一个弹窗的工具类,这借鉴了之前使用到工具类作者的代码风格,这对我很有帮助.
 ***
 - So far, I've written a utility class for the popover, which is inspired by the style of the author of the utility class I used earlier, which has helped me a lot.
