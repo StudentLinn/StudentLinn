@@ -12,7 +12,7 @@
 - I just graduated.
 - I'm trying to learn how to write better code to work.
 - Let me know if you see something wrong/inappropriate in my code.
-- and now i am write ios code, use language for swift.
+- and now i main write ios, use language for swift.
 
 ### Results
 - 目前写了一个弹窗的工具类,这借鉴了之前使用到工具类作者的代码风格,这对我很有帮助.
